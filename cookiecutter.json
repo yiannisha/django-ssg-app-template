@@ -1,0 +1,4 @@
+{
+    "APP_NAME": "app",
+    "APP_CLASS_NAME": "{{ cookiecutter.APP_NAME | capitalize }}"
+}
